@@ -1,0 +1,29 @@
+h1 {
+  color: black; font-family: Impact; text-align: center;}
+
+  h2 {color:DarkSlateGray; font-family: Impact; text-align: center; text-shadow: gray;}
+
+p {
+  font-size: 16px; color: Dimgray; text-align: center;}
+
+ol {
+  color: black; font-size: 18px;}
+
+body { background: url(marble.png); }
+
+ul {
+  color: black; }
+a {color: DarkSlateGray; font-family: Impact; }
+
+
+
+tr {font-family:cursive; }
+table, th, td, tr { border-collapse: collapse;
+}
+
+tr:nth-child(even) {background-color: darkgray}
+
+tr,table {margin: 0px auto; margin-top: 13%;}
+img { height:500px; width: 80%;}
+img { display:block; margin-left: auto; margin-right: auto; }
+footer {font-size: 11px; }
